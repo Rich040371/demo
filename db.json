@@ -1,21 +1,25 @@
-  [{
-    "id": 0,
-    "description": "StarLink MarsLander",
-    "external_url": "https://openmeta.community/",
-    "image": "https://openmeta.community/nft-test/startlink-game=preview.jpg",
-    "name": "Starlink NFT 1"
-  },
-  {
-    "id": 1,
-    "description": "StarLink Moonlanding",
-    "external_url": "https://openmeta.community/",
-    "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
-    "name": "Starlink NFT 2"
-  },
-  {
-    "id": 2,
-    "description": "StarLink SpaceX",
-    "external_url": "https://openmeta.community/",
-    "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
-    "name": "Starlink NFT 3"
-  }]
+{
+  "tokens": [
+    {
+      "id": 0,
+      "description": "StarLink MarsLander",
+      "external_url": "https://openmeta.community/",
+      "image": "https://openmeta.community/nft-test/startlink-game=preview.jpg",
+      "name": "Starlink NFT 1"
+    },
+    {
+      "id": 1,
+      "description": "StarLink Moonlanding",
+      "external_url": "https://openmeta.community/",
+      "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
+      "name": "Starlink NFT 2"
+    },
+    {
+      "id": 2,
+      "description": "StarLink SpaceX",
+      "external_url": "https://openmeta.community/",
+      "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
+      "name": "Starlink NFT 3"
+    }
+  ]
+}

@@ -1,4 +1,4 @@
-  {
+  [{
     "id": 0,
     "description": "StarLink MarsLander",
     "external_url": "https://openmeta.community/",
@@ -18,4 +18,4 @@
     "external_url": "https://openmeta.community/",
     "image": "https://twemoji.maxcdn.com/svg/1f40e.svg",
     "name": "Starlink NFT 3"
-  }
+  }]

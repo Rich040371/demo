@@ -21,6 +21,14 @@
       "image": "https://openmeta.community/nft-test/startlink-game=preview.jpg",
       "animation_url":"https://ipfs.io/ipfs/QmU2Yxho92LxzQPE9WN4EZGCALoSxFsiurxDaNAid5Ewhn?filename=Bee.glb"
       "name": "Starlink NFT 3"
+    },
+    {
+      "id": 2,
+      "description": "StarLink SpaceXtra",
+      "external_url": "https://openmeta.community/",
+      "image": "https://openmeta.community/nft-test/startlink-game=preview.jpg",
+      "animation_url":"https://ipfs.io/ipfs/QmU2Yxho92LxzQPE9WN4EZGCALoSxFsiurxDaNAid5Ewhn?filename=Bee.glb"
+      "name": "Starlink NFT 4"
     }
   ]
 }
